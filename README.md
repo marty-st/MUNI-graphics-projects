@@ -20,7 +20,7 @@ Details:
 ## Snowman
 **Ray-traced snowman with colored falling snow**
 
-*Semester: Autumn 2025*
+*Semester: Autumn 2024*
 
 Details:
 - soft shadows
