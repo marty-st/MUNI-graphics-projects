@@ -16,3 +16,15 @@ Details:
 
 ![bar gif](spacebar/spacebar.gif)
 ![bar closeup](spacebar/spacebar.png)
+
+## Snowman
+**Ray-traced snowman with colored falling snow**
+
+*Semester: Autumn 2025*
+
+Details:
+- soft shadows
+- falling snow particles
+
+![snowman gif](snowman/snowman.gif)
+![snowman rt](snowman/snowman.png)
