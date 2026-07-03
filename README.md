@@ -6,8 +6,9 @@ Each folder contains code for a separate project.
 ## Space Bar
 **Forward-rendered bar flying through space**
 *Semester: Autumn 2023*
+
 Details: 
-- blinn-phong lighting
+- Blinn-Phong lighting
 - animated lights of various types (cone, directional, point)
 - environmental reflection (skybox)
 - transparent objects
